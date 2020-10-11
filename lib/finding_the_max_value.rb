@@ -16,7 +16,7 @@ array [1, 2, 3, 4, 5, 6, 3, 5, 4, 2, 0]
 take each element of the array
 create variable called highest index
 if -current iteration- > highest index
-highest index = curret iteration
+highest index = current iteration
 
 return highest index
 
